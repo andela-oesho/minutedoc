@@ -1,0 +1,7 @@
+/tmp
+/.bundle
+/Gemfile.lock
+/doc/
+/application.yml
+/application.rb
+/.byebug_history
